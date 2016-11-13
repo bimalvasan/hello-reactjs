@@ -1,6 +1,6 @@
 # hello-reactjs
 React JS learnings
 
-# Compiling
+###### Compiling
 
->npm run build
+npm run build
