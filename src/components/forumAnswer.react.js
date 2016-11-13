@@ -3,7 +3,7 @@ var ForumAnswer = React.createClass({
 		answer: React.PropTypes.object.isRequired
 	},
 	render: function(){
-		var answer - this.props.answer;
+		var answer = this.props.answer;
 		
 		return (
 			<div className="panel panel-default">

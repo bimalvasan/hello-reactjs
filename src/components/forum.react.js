@@ -27,7 +27,7 @@ var Forum = React.createClass({
 					<ForumAnswers allAnswers={this.state.allAnswers} />
 					<hr />
 					<h4>Add an answer</h4>
-					<ForumAnswerBox />
+					<ForumAddAnswerBox />
 				</div> 
 			</div>
 		);

@@ -1,4 +1,4 @@
-var ForumAnswers = React.createClass({
+var ForumAddAnswerBox = React.createClass({
 	render: function () {
 		return (
 			<div>
