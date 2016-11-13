@@ -1,0 +1,27 @@
+{
+  "name": "hello-reactjs",
+  "version": "1.0.0",
+  "description": "React JS learnings",
+  "main": "index.js",
+  "scripts": {
+	  "build": "babel src -d lib --presets react",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimalvasan/hello-reactjs.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "bimal vasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimalvasan/hello-reactjs/issues"
+  },
+  "homepage": "https://github.com/bimalvasan/hello-reactjs#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
